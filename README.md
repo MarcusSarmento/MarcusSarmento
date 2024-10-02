@@ -4,8 +4,7 @@
 
 #### Habilidades Principais:
 
-![HTML](<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-)
+![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS]
 ![JavaScript]
 ![React.JS]
