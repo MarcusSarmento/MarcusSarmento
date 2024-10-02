@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React.JS](https://img.shields.io/badge/-React.JS-drak_gray)
+![React.JS](https://img.shields.io/badge/-React.JS-dark_gray)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-gray)
 ![Python](https://img.shields.io/badge/-Python-white)
 
