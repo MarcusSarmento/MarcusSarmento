@@ -7,18 +7,18 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React.JS](https://img.shields.io/badge/-React.JS-dark_gray)
+![React.JS](https://img.shields.io/badge/-React.JS-black)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-gray)
 ![Python](https://img.shields.io/badge/-Python-white)
 
 #### Habilidades Secundária:
 
 ![NODE.JS](https://img.shields.io/badge/-NODE.JS-ligth_green)
-![Git](https://img.shields.io/badge/-Git-dark_orange)
+![Git](https://img.shields.io/badge/-Git-red)
 ![php](https://img.shields.io/badge/-php-purple)
 ![Next.JS](https://img.shields.io/badge/-Next.JS-black)
 
 #### Banco de Dados:
 
-![MySQL](https://img.shields.io/badge/-MySQL-ligth_blue)
-![MongoBD](https://img.shields.io/badge/-MOngoBD-green)
+![MySQL](https://img.shields.io/badge/-MySQL-cyan)
+![MongoBD](https://img.shields.io/badge/-MongoBD-green)
